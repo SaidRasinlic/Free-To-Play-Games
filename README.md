@@ -4,7 +4,8 @@
 
 > This is the JavaScript capstone project, which is based on an external API, called FreeToGame API. The data of the games, which is fetched from the API, it gets displayed on the cards. The user can leave a comment on the game cards and give it a like also.
 
-#### Checkout the page: [Live Demo Link](https://saidrasinlic.github.io/Free-To-Play-Games/)
+#### [Live Demo Link](https://saidrasinlic.github.io/Free-To-Play-Games/)
+
 
 ## Built With
 
