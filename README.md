@@ -18,7 +18,7 @@
 ## Screenshot
 ### Mobile
 
-<img src="./src/assets/images/Free-To-Play-Games-IPhone13.png" alt="IPhone 13 Version" width="340px" />
+<img align="center" src="./src/assets/images/Free-To-Play-Games-IPhone13.png" alt="IPhone 13 Version" width="340px" />
 
 ### Desktop
 ![Screenshot from 2022-04-22 22-23-24](./src/assets/images/Free-To-Play-Games-Desktop.png)
