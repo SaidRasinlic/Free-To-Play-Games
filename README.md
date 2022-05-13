@@ -86,8 +86,8 @@ npm run dev
 👤 **Said Rašinlić**
 
 - GitHub: [@SaidRasinlic](https://github.com/SaidRasinlic)
-- Twitter: [@Virag_Ky](https://twitter.com/SaidRasinlic)
-- LinkedIn: [virag-kormoczy](https://linkedin.com/in/SaidRasinlic)
+- Twitter: [@SaidRasinlic](https://twitter.com/SaidRasinlic)
+- LinkedIn: [@SaidRasinlic](https://linkedin.com/in/SaidRasinlic)
 
 👤 **Virag Kormozcy**
 
