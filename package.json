@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/virag-ky/Free-To-Play-Games.git"
+    "url": "git+https://github.com/SaidRasinlic/Free-To-Play-Games.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/virag-ky/Free-To-Play-Games/issues"
+    "url": "https://github.com/SaidRasinlic/Free-To-Play-Games/issues"
   },
-  "homepage": "https://github.com/virag-ky/Free-To-Play-Games#readme",
+  "homepage": "https://github.com/SaidRasinlic/Free-To-Play-Games#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
@@ -30,6 +30,7 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.26.0",
     "file-loader": "^6.2.0",
+    "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "jest-webpack": "^0.5.1",
     "sass": "^1.50.1",
