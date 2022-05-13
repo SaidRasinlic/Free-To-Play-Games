@@ -83,17 +83,17 @@ npm run dev
 
 ## Authors
 
-👤 **Virag Kormozcy**
-
-- GitHub: [@virag-ky](https://github.com/virag-ky)
-- Twitter: [@Virag_Ky](https://twitter.com/Virag_Ky)
-- LinkedIn: [virag-kormoczy](https://linkedin.com/in/virag-kormoczy)
-
 👤 **Said Rašinlić**
 
 - GitHub: [@SaidRasinlic](https://github.com/SaidRasinlic)
 - Twitter: [@Virag_Ky](https://twitter.com/SaidRasinlic)
 - LinkedIn: [virag-kormoczy](https://linkedin.com/in/SaidRasinlic)
+
+👤 **Virag Kormozcy**
+
+- GitHub: [@virag-ky](https://github.com/virag-ky)
+- Twitter: [@Virag_Ky](https://twitter.com/Virag_Ky)
+- LinkedIn: [virag-kormoczy](https://linkedin.com/in/virag-kormoczy)
 
 ## 🤝 Contributing
 
