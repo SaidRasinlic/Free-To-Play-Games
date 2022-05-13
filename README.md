@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ```
-git clone git@github.com:virag-ky/Free-To-Play-Games.git
+git clone git@github.com:saidrasinlic/Free-To-Play-Games.git
 ```
 ### Installation 
 
