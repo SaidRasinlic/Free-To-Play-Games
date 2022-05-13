@@ -18,8 +18,7 @@
 ## Screenshot
 ### Mobile
 
-![Screenshot from 2022-04-22 22-25-29](./src/assets/images/Free-To-Play-Games-IPhone13.png){:height="36px" width="36px"}.
-
+<img src="./src/assets/images/Free-To-Play-Games-IPhone13.png" alt="IPhone 13 Version" width="240px" />
 ### Desktop
 ![Screenshot from 2022-04-22 22-23-24](./src/assets/images/Free-To-Play-Games-Desktop.png)
 ![Screenshot from 2022-04-22 22-24-14](./src/assets/images/Free-To-Play-Games-Desktop-Cards.png)
