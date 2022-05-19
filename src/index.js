@@ -17,6 +17,7 @@ import './assets/images/image17.png';
 import './assets/images/batman7.png';
 import './assets/images/nfs.png';
 import './assets/images/bg999.png';
+import './assets/images/Netlify.png';
 
 const arrowRight = document.querySelector('.b-display-right');
 arrowRight.addEventListener('click', () => plusDivs(1));
