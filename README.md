@@ -15,7 +15,7 @@
 - Webpack
 - Jest test
 
-## Screenshot
+## Screenshots
 ### Mobile
 
 <img align="center" src="./src/assets/images/Free-To-Play-Games-IPhone13.png" alt="IPhone 13 Version" width="340px" /> <img align="right" src="./src/assets/images/Free-To-Play-Games-IPhone13-II.png" alt="IPhone 13 Version" width="340px" />
